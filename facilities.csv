@@ -1,0 +1,98 @@
+Facility Name,Status,Region,Technology,Generator Capacity (MW),Latitude,Longitude
+Albany,operating,Western Australia,Wind,21.6,-35.0658354,117.7975063
+Ararat,operating,Victoria,Wind,241.59,-37.263393,143.082116
+Badgingarra,operating,Western Australia,Wind,130,-30.4399239,115.3240452
+Bald Hills,operating,Victoria,Wind,106.6,-38.7581889808652,145.956062446578
+Bango,operating,New South Wales,Wind,244,-34.7672077729328,148.921498707487
+Berrybank,operating,Victoria,Wind,180.6,-37.9807408934913,143.472217087048
+Biala,operating,New South Wales,Wind,110.67,-34.5878355563273,149.369847873015
+Blayney,operating,New South Wales,Wind,9.9,-33.621944,149.198333
+Boco Rock,operating,New South Wales,Wind,113,-36.5745267575061,149.124862887286
+Bodangora,operating,New South Wales,Wind,113,-32.407128,149.04133
+Bremer Bay,operating,Western Australia,Wind,0.6,-34.3990329,119.3893766
+Bulgana Green Power Hub,operating,Victoria,"Battery (Discharging),Wind",224,-37.1475326536899,142.937590484114
+Canunda,operating,South Australia,Wind,46,-37.6983027777778,140.383633333333
+Capital,operating,New South Wales,Wind,140,-35.123534200873,149.500248815014
+Cathedral Rocks,operating,South Australia,Wind,66,-34.8487411412149,135.592648854827
+Cattle Hill,operating,Tasmania,Wind,148,-42.1548445,146.6946935
+Challicum Hills,operating,Victoria,Wind,52,-37.3954659700352,143.104590414104
+Chepstowe,operating,Victoria,Wind,6,-37.596503,143.499582
+Cherry Tree,operating,Victoria,Wind,57,-37.1003604726479,145.267129247032
+Clements Gap,operating,South Australia,Wind,57,-33.4897731866514,138.11169493851
+Codrington,operating,Victoria,Wind,18,-38.2828746908265,141.95496017677
+Collector,operating,New South Wales,Wind,113,-34.8238785633268,149.396795344361
+Collgar,operating,Western Australia,Wind,206,-31.59751,118.490597
+Coonoer Bridge,operating,Victoria,Wind,19.8,-36.472722,143.322039
+Coopers Gap,operating,Queensland,Wind,452,-26.7170038,151.4491769
+Crookwell,operating,New South Wales,Wind,4.8,-34.5165,149.54248
+Crookwell 2,operating,New South Wales,Wind,96,-34.547676,149.589254
+Crowlands,operating,Victoria,Wind,79,-36.97615,143.097998
+Crudine Ridge,operating,New South Wales,Wind,141,-32.8647484102368,149.812970066282
+Cullerin Range,operating,New South Wales,Wind,30,-34.7509945681949,149.381026799248
+Denmark,operating,Western Australia,Wind,1.44,-35.0369706,117.3190123
+Dundonnell,operating,Victoria,Wind,335,-37.8638943,142.9434538
+Elaine,operating,Victoria,Wind,83,-37.7320941328686,144.010658320757
+Emu Downs,operating,Western Australia,Wind,80,-30.4756469,115.3790523
+Granville Harbour,operating,Tasmania,Wind,111,-41.802,145.056
+Grasmere,operating,Western Australia,Wind,13.8,-35.0658354,117.7975063
+Gullen Range,operating,New South Wales,"Solar (Utility),Wind",175,-34.6245115552508,149.458548623602
+Gunning,operating,New South Wales,Wind,47,-34.6763607466059,149.664430179495
+Hallett 1,operating,South Australia,Wind,95,-33.3284341007768,138.704668661635
+Hallett 2,operating,South Australia,Wind,71,-33.5382102938784,138.857214598585
+Hampton,operating,New South Wales,Wind,1.32,-33.649722,150.05
+Hepburn,operating,Victoria,Wind,4,-37.424555,144.115711
+Hornsdale,operating,South Australia,Wind,102,-33.05982,138.537673
+Hornsdale 2,operating,South Australia,Wind,102,-33.05982,138.537673
+Hornsdale 3,operating,South Australia,Wind,112,-33.05982,138.537673
+Kalbarri,operating,Western Australia,Wind,1.6,-27.8983027,114.1923536
+Karakin,operating,Western Australia,Wind,5,-30.9422424,115.3666128
+Kennedy Energy Park,operating,Queensland,"Battery (Discharging),Solar (Utility),Wind",60.2,-20.7675096693552,145.015873066132
+Kiata,operating,Victoria,Wind,31,-36.397693,141.746827
+Lake Bonney,operating,South Australia,Wind,81,-37.7605043836737,140.405541183051
+Lake Bonney 2,operating,South Australia,Wind,159,-37.7605043836737,140.405541183051
+Lake Bonney 3,operating,South Australia,Wind,39,-37.7605043836737,140.405541183051
+Lincoln Gap,operating,South Australia,Wind,212.4,-32.5463326,137.5527629
+Macarthur,operating,Victoria,Wind,420,-38.0434828383441,142.179080598594
+Maroona,operating,Victoria,Wind,6,-37.41875,142.82434
+Moorabool,operating,Victoria,Wind,150,-37.7394327265983,144.17198546588
+Mortons Lane,operating,Victoria,Wind,20,-37.8331864361526,142.465288088147
+Mount Barker,operating,Western Australia,Wind,2.43,-34.6011629,117.6439045
+Mt Emerald,operating,Queensland,Wind,180,-17.133248,145.380037
+Mt Gellibrand,operating,Victoria,Wind,137.98,-38.257657,143.798651
+Mt Mercer,operating,Victoria,Wind,131,-37.8475926188678,143.870183020168
+Mt Millar,operating,South Australia,Wind,70,-33.6193424956887,136.717568216817
+Mumbida,operating,Western Australia,Wind,55,-29.0110631,114.9662285
+Murra Warra,operating,Victoria,Wind,231,-36.438821,142.246003
+Musselroe,operating,Tasmania,Wind,168,-40.7771052626774,148.006314660477
+North Brown Hill,operating,South Australia,Wind,132,-33.2281156193048,138.716888373039
+Oaklands Hill,operating,Victoria,Wind,67,-37.6794809945517,142.55299488617
+Portland,operating,Victoria,Wind,148,-38.3614171461369,141.384559747436
+Salt Creek,operating,Victoria,Wind,54,-37.918698,142.796027
+Sapphire,operating,New South Wales,Wind,270,-29.710273,151.44558
+Silverton,operating,New South Wales,Wind,198,-31.86095,141.296349
+Snowtown,operating,South Australia,Wind,99,-33.6915984540895,138.166022220101
+Snowtown North,operating,South Australia,Wind,144,-33.7564786487724,138.143043187414
+Snowtown South,operating,South Australia,Wind,126,-33.862624210288,138.130366531972
+Starfish Hill,operating,South Australia,Wind,35,-35.5789829575224,138.139653061517
+Stockyard Hill,operating,Victoria,Wind,456.96,-37.5356798617577,143.252547714229
+Taralga,operating,New South Wales,Wind,106,-34.4253872675598,149.859603200677
+The Bluff,operating,South Australia,Wind,52.5,-33.3677405026772,138.79378986166
+Timboon West,operating,Victoria,Wind,7,-38.528351,142.916231
+Toora,operating,Victoria,Wind,21,-38.653527957636,146.339773925194
+Walkaway,operating,Western Australia,Wind,89.1,-28.9024923,114.8927165
+Warradarge,operating,Western Australia,Wind,180,-30.0417422908031,115.346019184776
+Waterloo,operating,South Australia,Wind,130,-33.991095267936,138.915722795005
+Wattle Point,operating,South Australia,Wind,91,-35.1154104383038,137.718672417968
+Waubra,operating,Victoria,Wind,192,-37.3579790620375,143.592600206467
+West Hills,operating,Western Australia,Wind,5,-30.8581035,115.4632611
+White Rock,operating,New South Wales,"Solar (Utility),Wind",197,-29.7562617651771,151.552002678622
+Willogoleche,operating,South Australia,Wind,119,-33.393569,138.84821
+Windy Hill,operating,Queensland,Wind,12,-17.590399,145.52968
+Wonthaggi,operating,Victoria,Wind,12,-38.60513,145.546292
+Woodlawn,operating,New South Wales,Wind,48,-35.0816745987566,149.570510727867
+Woolnorth,operating,Tasmania,Wind,140,-40.7363747501987,144.694820513736
+Yaloak South,operating,Victoria,Wind,28,-37.716474,144.241947
+Yambuk,operating,Victoria,Wind,30,-38.305278107624,142.018439165612
+Yandin,operating,Western Australia,Wind,214,-30.6809709085977,115.694249343404
+Yawong,operating,Victoria,Wind,7.2,-36.471022,143.361722
+Yendon,operating,Victoria,Wind,144,-37.630952,144.022463
